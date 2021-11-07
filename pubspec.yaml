@@ -1,7 +1,7 @@
 name: build_grpc_channel
 description: The util builds gRPC channel for flutter web or other platforms conditionally, depending on the runtime environment
 version: 0.5.0
-homepage:
+homepage: https://github.com/premiumapp-org/build_grpc_channel
 
 environment:
   sdk: '>=2.14.4 <3.0.0'
